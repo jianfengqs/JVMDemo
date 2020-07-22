@@ -2,6 +2,10 @@ package com.qs.demo.java1;
 
 /**
  * @Desc:
+ *
+ *   -Xms10m
+ *   -Xmx10m
+ *
  * @author: jianfeng
  * @Time: 2020/6/15 17:46
  */
